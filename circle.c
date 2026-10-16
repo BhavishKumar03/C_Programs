@@ -9,4 +9,5 @@ int main()
     circum=2*PI*radius;
     printf("Area=%.2f\n",area);
     printf("Circumference=%.2f",circum);
+    return 0;
 }
